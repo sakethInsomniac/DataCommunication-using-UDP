@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CRC8
+comment1.params=
+comment1.target=CRC8()
+comment2.params=buffer\ offset\ len
+comment2.target=void\ update(byte[],\ int,\ int)
+comment3.params=buffer
+comment3.target=void\ update(byte[])
+comment3.text=\r\n\ Updates\ the\ current\ checksum\ with\ the\ specified\ array\ of\ bytes.\r\n\ Equivalent\ to\ calling\ <code>update(buffer,\ 0,\ buffer.length)</code>.\r\n\ \r\n\ @param\ buffer\r\n\ \ \ \ \ \ \ \ \ \ \ \ the\ byte\ array\ to\ update\ the\ checksum\ with\r\n
+comment4.params=b
+comment4.target=void\ update(int)
+comment5.params=
+comment5.target=long\ getValue()
+comment6.params=
+comment6.target=void\ reset()
+numComments=7

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CommChar2
+comment1.params=comms
+comment1.target=void\ clientApp(Comms)
+comment1.text=\r\n\ Method\ ClientApp\ helps\ to\ send\ the\ info\ from\ client\ to\ server\r\n\ \r\n\ @param\ Comms\ object\r\n\ @throws\ exception\r\n
+comment2.params=comms
+comment2.target=void\ serverApp(Comms)
+comment2.text=\r\n\ Method\ ServerApp\ helps\ to\ check\ the\ file\ existing\r\n\ \r\n\ @param\ Comms\ object\r\n\ @throws\ exception\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

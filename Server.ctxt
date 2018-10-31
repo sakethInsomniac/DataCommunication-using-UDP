@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Server
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Server\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=comms
+comment1.target=void\ serverApp(Comms)
+comment1.text=\r\n\ Method\ ServerApp\ helps\ to\ check\ the\ file\ existing\r\n\ \r\n\ @param\ Comms\ object\r\n\ @throws\ exception\r\n
+comment2.params=data\ b\ length\ file
+comment2.target=java.lang.Long\ checksum(java.lang.Boolean,\ byte[],\ int,\ java.lang.String)
+comment2.text=\r\n\ Check\ sum\ class\ to\ calculate\ the\ check\ sum\ of\ the\ file\ and\ data.\r\n
+numComments=3
